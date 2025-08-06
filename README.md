@@ -28,8 +28,8 @@ Project ini adalah contoh aplikasi **CRUD (Create, Read, Update, Delete)** yang 
 1. **Clone repository** ini:
 
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/wira09/CRUD-EXPRESS-REACT.git
+   cd CRUD-EXPRESS-REACT
    ```
 
 2. **Install dependencies backend**:
