@@ -91,7 +91,7 @@ curl -X GET http://localhost:3000/api/data
 #### ✏️ Mengupdate Data
 
 ```bash
-curl -X PUT http://localhost:3000/api/data/1 \
+curl -X PACT http://localhost:3000/api/data/1 \
 -H 'Content-Type: application/json' \
 -d '{"name": "Jane Doe", "email": "jane@example.com"}'
 ```
